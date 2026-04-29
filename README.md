@@ -66,14 +66,14 @@ lib/
 ---
 ## 📸 Screenshots
 
-| Empty State | Add Transaction |
-|------------|-----------------|
-| ![](screenshots/home_empty.png) | ![](screenshots/add_transaction.png) |
+<p align="center">
+  <img src="screenshots/home_empty.png" width="260" />
+  <img src="screenshots/add_transaction.png" width="260" />
+</p>
 
-| Transactions |
-|-------------|
-| ![](screenshots/home_transactions.png) |
-
+<p align="center">
+  <img src="screenshots/home_transactions.png" width="260" />
+</p>
 ---
 
 ## 💡 Highlights
