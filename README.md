@@ -72,6 +72,7 @@ lib/
   <img src="screenshots/add_transaction.png" width="230" />
   <img src="screenshots/home_transactions.png" width="230" />
 </p>
+
 ---
 
 ## 💡 Highlights
