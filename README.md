@@ -64,6 +64,17 @@ lib/
 ```
 
 ---
+## 📸 Screenshots
+
+| Empty State | Add Transaction |
+|------------|-----------------|
+| ![](screenshots/home_empty.png) | ![](screenshots/add_transaction.png) |
+
+| Transactions |
+|-------------|
+| ![](screenshots/home_transactions.png) |
+
+---
 
 ## 💡 Highlights
 
@@ -87,7 +98,7 @@ Flutter Developer passionate about building clean and useful mobile applications
 
 ## 🚀 Repository
 
-Hosted on GitHub as a portfolio project showcasing Flutter development skills.
+Open-source Flutter project showcasing clean architecture and local storage implementation.
 
 ---
 
