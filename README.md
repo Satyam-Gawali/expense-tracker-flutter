@@ -64,15 +64,13 @@ lib/
 ```
 
 ---
+
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home_empty.png" width="260" />
-  <img src="screenshots/add_transaction.png" width="260" />
-</p>
-
-<p align="center">
-  <img src="screenshots/home_transactions.png" width="260" />
+  <img src="screenshots/home_empty.png" width="230" />
+  <img src="screenshots/add_transaction.png" width="230" />
+  <img src="screenshots/home_transactions.png" width="230" />
 </p>
 ---
 
